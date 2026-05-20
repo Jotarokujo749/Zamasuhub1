@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jotarokujo749/Zamasuhub1/refs/heads/main/zmhubfen.lua", true))()
